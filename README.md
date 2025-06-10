@@ -6,15 +6,20 @@ A Python application for encrypting and decrypting messages using various crypto
 
 - **Classical Ciphers**
   - Caesar Cipher
-  - One-Time Pad
+  - Vigenere
 - **Modern Cryptography**
-  - AES-256
+  - sha256
   - RSA
 
 ## Installation
 
 1. Clone the repository
-2. source venv/bin/activate  # On Mac/Linux
+2. # Create the virtual environment
+   ```bash
+   python -m venv venv
+2. # Activate virtual environment
+   ```bash
+   source venv/bin/activate  # On Mac/Linux
    or 
    venv\Scripts\activate    # On Windows
 3. Install dependencies:
