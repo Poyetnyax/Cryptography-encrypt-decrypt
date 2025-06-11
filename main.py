@@ -5,7 +5,7 @@ from app.modern.sha256 import SHA256Hash
 from app.modern.rsa import RSACrypto
 import base64
 
-st.title("Cryptography Lab Tool")
+st.title("Encryption and Decryption Tool")
 
 # Session state for RSA keys
 if 'rsa_keys' not in st.session_state:

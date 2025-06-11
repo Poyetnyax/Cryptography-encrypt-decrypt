@@ -13,7 +13,10 @@ A Python application for encrypting and decrypting messages using various crypto
 
 ## Installation
 
-1. Clone the repository
+1. # Clone the repository https://github.com/Poyetnyax/Cryptography-encrypt-decrypt
+
+   # Having the project files do the following.
+   
 2. # Create the virtual environment
    ```bash
    python -m venv venv
