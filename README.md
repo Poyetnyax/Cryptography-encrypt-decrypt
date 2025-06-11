@@ -13,6 +13,13 @@ A Python application for encrypting and decrypting messages using various crypto
 
 ## Installation
 
+
+1. ## Clone the repository https://github.com/Poyetnyax/Cryptography-encrypt-decrypt
+
+   ## Having the project files do the following.
+   
+2. ## Create the virtual environment
+=======
 1. # Clone the repository https://github.com/Poyetnyax/Cryptography-encrypt-decrypt
 
    # Having the project files do the following.
@@ -20,12 +27,12 @@ A Python application for encrypting and decrypting messages using various crypto
 2. # Create the virtual environment
    ```bash
    python -m venv venv
-2. # Activate virtual environment
+3. ## Activate virtual environment
    ```bash
    source venv/bin/activate  # On Mac/Linux
    or 
    venv\Scripts\activate    # On Windows
-3. Install dependencies:
+4. ## Install dependencies:
    ```bash
    pip install -r requirements.txt
    or 
