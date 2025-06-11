@@ -22,7 +22,7 @@ A Python application for encrypting and decrypting messages using various crypto
 
    ### Having the project files do the following.
    
-3. ## Create the virtual environment
+3. ### Create the virtual environment
    ```bash
    python -m venv venv
 4. ### Activate virtual environment
